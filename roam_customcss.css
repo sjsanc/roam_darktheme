@@ -113,12 +113,15 @@ strong { /* bold text */
     color: #fff;
 }
 
+#right-sidebar {
+    background-color: #2f3e4a !important;
+}
+
 
 /* ### */
 .flex-v-box { /* can't remember what this did lol */
     margin-left: 5px !important;
 }
-
 .bp3-elevation-3 {
     color: #262626;
 }
