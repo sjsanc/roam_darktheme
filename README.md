@@ -1,4 +1,4 @@
-# Roam_Darkly
+# Roam_Darktheme
 A dark theme for Roam Research 
 
 This is a custom theme for Roam that edits some parts of the basic layout and colouration. 
